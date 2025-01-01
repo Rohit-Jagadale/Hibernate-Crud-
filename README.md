@@ -1,2 +1,2 @@
-# Hibernate-Crud-
+# Hibernate-Crud
 Hibernate Crud
